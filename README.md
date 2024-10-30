@@ -1,4 +1,4 @@
-# Expert_System_on_Detecting_Landslide
+# Expert_System_Detecting_Landslide_hills
 Sebuah projek UTS Sistem Pakar Kelompok 6
 
 Anggota Kelompok 6 :
